@@ -1,0 +1,44 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "title": "Nike Dunk Low",
+      "brand": "Nike",
+      "price": "140",
+      "description": "Created for the hardwood but taken to the streets, this ‘80s basketball icon returns with classic details and throwback hoops flair. Synthetic leather overlays help the Nike Dunk channel vintage style while its padded, low-cut collar lets you take your game anywhere—in comfort.",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4eae23a9-b240-4a53-98c7-d5502fe3f7dc/dunk-low-mens-shoes-l12Bc1.png"
+    },
+    {
+      "id": "2",
+      "title": "KD17",
+      "brand": "Nike",
+      "price": "150",
+      "description": "While Kevin Durant’s all-timer status is already cemented, his hooper soul can’t be soothed unless he’s on the court, perfecting his craft. Put in the work to be great in the KD17, a shoe for gym rats and those who insist on running it back. A forefoot Air Zoom unit enhances your first step. We combined it with Nike Air cushioning to fuel full court sprints and defensive stops that can decide games. This special design pays homage to the '90s. It's when KD fell in love with watching basketball legends whom he could model his game after.",
+      "image_url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7dda3955-963d-4904-b2c4-2cb7c17e3115/kd17-basketball-shoes-Vw01bx.png"
+    },
+    {
+      "id": "3",
+      "title": "Nike Air Max Plus Drift",
+      "brand": "Nike",
+      "price": "185",
+      "description": "Let your attitude have the edge in the Air Max Plus Drift, a \"tuned\" Air experience that offers premium stability and cushioning. Featuring airy mesh, gradient coloring and the original wavy design lines, it celebrates your defiant style.",
+      "image_url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c28d5e6a-10f7-4b43-a71c-14a52eb9fd7c/air-max-plus-drift-mens-shoes-FKwJ7w.png"
+    },
+    {
+      "id": "4",
+      "title": "Air Jordan 12 Retro \"Taxi Flip\"",
+      "brand": "Nike",
+      "price": "200",
+      "description": "No need to call for a ride—MJ's game-winning look from '96 will get you where you need to go. This AJ12 is the return of Tinker Hatfield's celebrated design, the first to bring Zoom Air cushioning to Jordan's signature line. Premium materials give it a seasonal refresh, while the sunrise-inspired stitch lines on the upper hook back to the original. This is buzzer-beater style, perfected.",
+      "image_url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1c3794e5-8963-4bb6-b411-86cf4ce502e6/air-jordan-12-retro-taxi-flip-mens-shoes-mmrpJt.png"
+    },
+    {
+      "id": "5",
+      "title": "Nike Pegasus 41",
+      "brand": "Nike",
+      "price": "140",
+      "description": "Responsive cushioning in the Pegasus provides an energized ride for everyday road running. Experience lighter-weight energy return with dual Air Zoom units and a ReactX foam midsole. Plus, improved engineered mesh on the upper decreases weight and increases breathability.",
+      "image_url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0558cdb5-4d42-4f4d-9b37-5038f1f97f9f/pegasus-41-mens-road-running-shoes-7S90QB.png"
+    }
+  ]
+}
